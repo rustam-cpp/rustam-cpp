@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello GitHub community!
 
-<!--
-**rustam-cpp/rustam-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I'm a begginer competitive programmer. I practice on [Codeforces.com](https://codeforces.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+My biggest project is the template to solve problems on [Codeforces.com](https://codeforces.com/) faster
+
+It's a programm on C++ (with debug system), some floders, [test generator](https://codeforces.com/blog/entry/127104?locale=en)
+
+### Goals
+
+I want to be expert on [Codeforces.com](https://codeforces.com/)
+
+It's 1600 rating, my current one you can see [here](https://codeforces.com/profile/rustam-cpp?locale=en)
