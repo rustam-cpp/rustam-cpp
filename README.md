@@ -4,6 +4,8 @@
 
 I'm a begginer competitive programmer. I practice on [Codeforces.com](https://codeforces.com/)
 
+I have blog in [Telegram](https://t.me/rustam_cpp_codeforces_blog)
+
 ### What I'm working on
 
 My biggest project is the template to solve problems on [Codeforces.com](https://codeforces.com/) faster
