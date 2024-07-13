@@ -8,9 +8,7 @@ I have blog in [Telegram](https://t.me/rustam_cpp_codeforces_blog)
 
 ### What I'm working on
 
-My biggest project is the template to solve problems on [Codeforces.com](https://codeforces.com/) faster
-
-It's a programm on C++ (with debug system), some floders, [test generator](https://codeforces.com/blog/entry/127104?locale=en)
+I'\m learning new algorithms and data structures.
 
 ### Goals
 
